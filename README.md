@@ -1,103 +1,125 @@
 🌟 Sahayak: Transforming Education in Diverse Indian Classrooms 🇮🇳
-Sahayak is an AI-powered teaching assistant tailored for multi-grade classrooms (MGCs) in India—where one teacher often teaches students from different grades at the same time.
+Sahayak is an AI-powered teaching assistant crafted for India’s multi-grade classrooms (MGCs) — where one teacher educates students from multiple grades simultaneously.
 
-It simplifies and empowers educators with tools to generate:
+It empowers educators to generate:
 
 📝 Customized lesson plans
+
 📚 Grade-specific worksheets
+
 📖 Culturally rich stories
+
 💡 Student-friendly explanations
-🌐 All in 12+ Indian languages
+
+🌐 Available in 12+ Indian languages
 
 ⚙️ Powered by Gemini AI, Sahayak Offers:
-📍 Localized Content
-→ Generate poems, activities, and explanations in regional languages
+Feature	Description
+📍 Localized Content	Generate poems, activities & explanations in regional languages
+📈 Adaptive Learning	Tailored worksheets & plans for Grades 1–8
+🖼️ Visual Teaching Aids	Auto-generated diagrams, infographics, flowcharts
+🧠 Interactive Assistant	ChatGPT-style Q&A for teaching support
+📊 Performance Analytics	Real-time tracking of learning & classroom progress
 
-📈 Adaptive Learning
-→ Grade-wise worksheets and plans (Grades 1–8)
-
-🖼️ Visual Teaching Aids
-→ Auto-generated diagrams, flowcharts & infographics
-
-🧠 Interactive Assistant
-→ ChatGPT-style support for teacher queries
-
-📊 Performance Analytics
-→ Real-time tracking of teaching impact & class progress
-
-✅ Works in both rural & urban schools
-✅ Reduces prep time by 70% ⏱️
+✅ Works in rural & urban schools
+✅ Saves 70% teacher prep time ⏱️
 ✅ Increases student engagement 🎯
-✅ Democratizes quality education 🌍
+✅ Democratizes education 🌍
 
 🧩 Unique Differentiation
-Sahayak stands apart as India’s first AI platform built for multi-grade classrooms, not just for single-grade, urban setups.
+Sahayak is India’s first AI solution designed for multi-grade classrooms.
 
-✨ Key Differentiators:
-🧮 One-topic auto-adapted across Grades 1–8
-🗣️ 12+ Indian languages with local, cultural relevance
-📴 Offline support for rural & low-infra schools
+✨ What Makes It Different?
+🧮 One-topic adapted across Grades 1–8
 
-🛠️ Problem-Solving Approach
-Sahayak targets the core struggles of MGC teachers:
+🗣️ Support for 12+ Indian languages with local cultural relevance
 
-🕒 Saves 70% of planning time by auto-generating:
-🎯 Grade-specific lesson plans
-✍️ Level-appropriate worksheets
-🌾 Localized visual aids (agriculture, festivals, etc.)
+📴 Works offline for low-infrastructure schools
 
-🗣️ Real-time, multilingual explanations
-📚 Relatable, localized examples that connect with students
+🛠️ Solving Core Problems for MGC Teachers
+Sahayak reduces teacher burden by:
+
+🕒 Saving 70% of planning time
+
+🎯 Auto-generating grade-wise lesson plans
+
+✍️ Creating level-specific worksheets
+
+🌾 Delivering localized visual aids (festivals, farming, etc.)
+
+📚 Offering relatable, contextual explanations
+
+🗣️ Supporting real-time multilingual teaching
 
 🚀 Unmatched USPs
-✅ Multi-Grade AI Engine – First trained on MGC pedagogy
-✅ Zero-Dependency Design – Runs offline on basic smartphones 📱
-✅ Teacher Multiplier – Assists teachers without replacing them 👩‍🏫👨‍🏫
-✅ Proven Impact –
-🔹 68% reduced workload
-🔹 2.1× learning outcome improvement 📈
+✅ Feature	💡 Value
+Multi-Grade AI Engine	First AI trained on MGC pedagogy
+Zero-Dependency Design	Works offline on basic smartphones 📱
+Teacher Multiplier	Assists without replacing 👩‍🏫👨‍🏫
+Proven Impact	68% workload reduction, 2.1× learning gain 📈
 
-🌱 Sahayak isn't just a tool—it's a revolution in grassroots education.
+🌱 More than a tool—it’s a revolution in grassroots education.
 
 🧠 Sahayak’s Feature Toolkit
 1️⃣ Smart Content Generation 💬
-📚 Auto-creates content for Grades 1–8
-📝 Local-language poems, stories & activities
-🌍 Content customized to festivals, occupations, and regions
+📚 Auto-generates content for Grades 1–8
+
+📝 Local poems, stories, activities
+
+🌍 Adapted to festivals, occupations, and regions
 
 2️⃣ Interactive Teaching Aids 🖍️
-📊 Auto-generated infographics, diagrams, and flowcharts
+📊 Instant diagrams, flowcharts, infographics
+
 🖨️ Low-ink printable materials
-🔊 Vernacular voice explanations
+
+🔊 Vernacular audio explanations
 
 3️⃣ Classroom Management 🏫
-🌐 Live language switching for mixed-grade teaching
-📒 Grade-wise homework & assessments
-🎲 Activities designed for combined grade learning
+🌐 Real-time language switching
+
+📒 Grade-specific homework and assessments
+
+🎲 Combined class multi-level activities
 
 4️⃣ Teacher Support 💡
-💬 Instant FAQ & pedagogical guidance
-🗂️ Time-saving classroom organization tips
-📉 Learning gap tracking across grades
+💬 Instant teaching Q&A (pedagogy, doubts)
+
+🗂️ Classroom organization & scheduling tips
+
+📉 Tracks learning gaps by grade
 
 5️⃣ Accessibility Features 🧩
-📴 Full offline functionality
-🧠 Content options for dyslexia-friendly learning
+📴 Fully offline-capable
+
+🧠 Supports dyslexia-friendly content
 
 6️⃣ Specialized Tools 🎯
-📆 Seasonal content suggestions (e.g. harvest, monsoon)
-🏛️ Aligned with NCERT/SCERT curriculum
-🤝 Collaborative community resource sharing
+📆 Seasonal content (e.g. harvest, monsoon)
+
+🏛️ NCERT/SCERT curriculum aligned
+
+🤝 Community-shared teaching resources
 
 🖼️ Visual Overview
 🧱 Sahayak Architecture
-<img width="432" alt="Sahayak Architecture" src="https://github.com/user-attachments/assets/fedead49-20dd-4eb5-ac38-0306c609c99a" />
+Modular, Intelligent, Local-first Design
+
+<div align="center"> <img width="432" src="https://github.com/user-attachments/assets/fedead49-20dd-4eb5-ac38-0306c609c99a" alt="Sahayak Architecture"/> </div>
 📊 Dashboard Interface
-<img width="1363" alt="Dashboard of the Sahayak" src="https://github.com/user-attachments/assets/703d0dea-8141-473e-a34a-01072bf3b85a" />
-🧠 (Long-Term Vision) Agentic Workflow
-<img width="561" alt="Agentic WorkFlow" src="https://github.com/user-attachments/assets/04c93160-4f4c-4944-a2c1-50c56ad60474" />
+Minimal, Mobile-first UI for Daily Teaching Tasks
+
+<div align="center"> <img width="800" src="https://github.com/user-attachments/assets/703d0dea-8141-473e-a34a-01072bf3b85a" alt="Sahayak Dashboard"/> </div>
+🧠 Agentic Workflow (Long-Term Vision)
+Autonomous Educational Agent Ecosystem
+
+<div align="center"> <img width="600" src="https://github.com/user-attachments/assets/04c93160-4f4c-4944-a2c1-50c56ad60474" alt="Agentic Workflow"/> </div>
 🔍 Sahayak in Action
-<img width="881" alt="Sahayak Example" src="https://github.com/user-attachments/assets/2fa88937-0d2b-4c22-944c-2a8d74887791" />
+Example Interface of Teacher Assistant Usage
+
+<div align="center"> <img width="800" src="https://github.com/user-attachments/assets/2fa88937-0d2b-4c22-944c-2a8d74887791" alt="Sahayak in Action"/> </div>
 🌈 Conclusion
-Sahayak brings together AI innovation and grassroots needs to uplift 1.2 million+ teachers and millions of students across India. It’s not just software—it’s a movement toward inclusive, contextual, and impactful learning. 🚀📖
+Sahayak fuses AI innovation with grassroots relevance to uplift over 1.2 million teachers and millions of students across India.
+
+It’s not just software—it’s a movement for inclusive, personalized, and impactful learning. 🚀📖
 
